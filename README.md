@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svshsingh
+- 👋 Hi, I’m @SvshSingh
 - 👀 I’m interested in AI and Machine Learning, software development, and web technologies.
 - 🌱 I’m currently learning advanced deep learning techniques and developing full-stack web applications.
 - 💞️ I’m looking to collaborate on open-source projects, innovative software solutions, and AI-based projects.
