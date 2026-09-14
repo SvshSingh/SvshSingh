@@ -68,6 +68,12 @@ Ranchi, India · Open to SDE roles
 
 <img src="https://streak-stats.demolab.com?user=SvshSingh&theme=dark&hide_border=true&background=0D1117&ring=5EA9FF&fire=5EA9FF&currStreakLabel=5EA9FF" alt="GitHub streak stats" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SvshSingh/SvshSingh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SvshSingh/SvshSingh/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SvshSingh/SvshSingh/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <div align="center">
